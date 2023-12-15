@@ -1,4 +1,4 @@
-Computer Vision Capstone Project on Image Classification
+# Computer Vision Capstone Project on Image Classification
 This is a remake of my Capstone Project on Image Classification using Scikit-learn and TensorFlow. I initially worked on this project as a part of my Data Science program at Brainstation in June of 2023. 
 
 Files: 
